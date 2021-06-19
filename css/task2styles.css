@@ -1,0 +1,159 @@
+.header{
+    width:100%;
+    height:60px;
+    position:fixed;
+   margin:-10px;
+    color:rgb(49, 13, 75);
+    background-color:rgb(231, 227, 227) ;
+
+}
+body{
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color:rgb(231, 227, 227);
+}
+
+h3{
+    display:inline;
+    font-size: 14px;
+    font-weight:bold;
+}
+p{
+    display:inline;
+
+   
+}
+a{
+  padding: 10px;
+  color:black;
+  text-decoration: none;
+
+}
+.content{
+    
+    margin-top: 50px;
+   
+}
+h1{
+    display:inline-flex;
+    font-family: 'Lucida Handwriting';
+    font-size: 18px;
+    margin:0px 5px 0px 10px;
+}
+.h41{
+     cursor:pointer;
+   padding:15px;
+     margin-top:-180px;
+     display:inline-flex;
+}
+.h42{
+    cursor:pointer;
+  padding: 15px;
+     margin-top:-80px; 
+     display:inline-flex;
+    
+}
+.h44{
+    cursor:pointer;
+ padding:15px;
+    margin-top:-80px;
+    display:inline-flex;
+
+}
+.h43{
+    cursor:pointer;
+    padding:15px;
+    margin-top:-80px;
+    display:inline-flex;
+
+}
+
+.log{
+    float:right;
+    margin-right:100px;
+   margin-top: 20px;
+   color:rgb(49, 13, 75);
+   font-weight: bold;
+}
+.fb{
+   margin:0px 0px 0px 690px;
+}
+.fbimg{
+    border-radius:5px;
+    margin-left:20px;
+}
+.fbimg:hover{
+    color:blue;
+}
+.twt{
+    border-radius:5px;
+    margin-left: -15px;
+}
+.twt:hover{
+    color:blue;
+}
+.con{
+    line-height:2px;
+    margin-top:-10px;
+    font-size: 14px;
+    margin-left: 30px;
+}
+.para{
+    font-size:14px;
+}
+.alink:hover{
+    color:blue;
+}
+h6{
+font-size: 13px;
+margin-top:-40px;
+
+
+}
+p{
+    color:gray;
+}
+.alink{
+    color:gray;
+    font-size: 14px;
+    margin:0px 10px 0px 0px;
+    padding:3px;
+}
+.footer{
+    height:130px;
+    width:100%
+}
+.gplay{
+   margin-left: 190px;
+   border-radius: 10px;
+   margin-top:-15px;
+   
+   
+}
+.down{
+    margin-top: -75px;
+    margin-left:200px;
+}
+.dplay{
+    margin-left: -15px;
+    border-radius: 10px;
+    margin-top:-8px;
+    font-size: 14px;
+    
+}
+.h45{
+    font-family: Copperplate;
+    color:orange;
+    font-weight: bold;
+    display:inline-flex;
+    padding: 15px;
+
+}
+.high{
+    color:black;
+    line-height: 60px;
+    font-size: 14px;
+}
+h2{
+    line-height: 2px;
+}
